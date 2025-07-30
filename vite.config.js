@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react-swc'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/FEDF12/',
+  base: '/fronted_project2/',
   plugins: [react()],
 })
